@@ -1,27 +1,24 @@
-## Welcome to GitHub Pages
+## AQUI VA EL TITULO DE NUESTROS ANTIGENOS
 
-You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_8_4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Introducción
+Describe de qué trata tu proyecto:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_¿qué problema vas a abordar?_
 
-### Markdown
+_¿porqué es importante?_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_¿cómo se relaciona con la ODS asignada a tu club?_
 
-```markdown
-Syntax highlighted code block
+_¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?_
 
-# Header 1
-## Header 2
-### Header 3
+### Métodología
+Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento.
 
-- Bulleted
-- List
+### Resultados
+Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas).
 
-1. Numbered
-2. List
+![](Logo_CdeCMx.png)
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
