@@ -31,7 +31,7 @@ _Proyecto_ : Los estudiantes seleccionarán proteínas de interés para trabajar
 •	Uso de los programas ¨Chimera¨, ¨Prodigy¨ 
 •	Docking molecular con ¨PDBsum¨
 •	Diseño de la página web en GitHub 
-
+![](HDOCK.png)
 
 ### Resultados
 Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas).
