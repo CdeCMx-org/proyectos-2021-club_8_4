@@ -22,20 +22,21 @@ _Inmunología_ : Para entender acerca de los virus hay que conocer los principio
 _Programas y herramientas de trabajo_ : Presentación de los bases de datos y programas que se utilizarán a lo largo de proyecto
 •	Estudio de las bases de datos ¨NCBI¨ y ¨PDB¨
 •	Exploración y uso de los programas ¨Jalview¨ y ¨Chimera¨
-•	Estudio de las estructuras moleculares en la plataforma ¨PDB¨
+•	Estudio de las estructuras moleculares en la plataforma ¨PDB¨ y "HDOCK"
 •	Uso de los programas ¨Prodigy¨ y ¨PDBsum¨
 
 _Proyecto_ : Los estudiantes seleccionarán proteínas de interés para trabajar en el proyecto 
 •	Buscar 4 antígenos en PDB como opciones para su estudio en el proyecto
-•	Selección de 2 proteínas para el proyecto 
-•	Uso de los programas ¨Chimera¨, ¨Prodigy¨ 
-•	Docking molecular con ¨PDBsum¨
+•	Selección de 2 de los mismos 
+• Selección de 2 receptores tipo Toll, de acuerdo a los antigenos previos
+•	Uso de los programas ¨Chimera¨ y Jalview 
+•	Docking molecular con ¨PDBsum¨ y "HDOCK"
+• Interpretación de Energía de Gibbs en Prodigy
 •	Diseño de la página web en GitHub 
 ![](HDOCK.png)
 
 ### Resultados
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas).
-
+Primero se investigaron las proteinas a escoger, siendo estas proteinas de superficie de virus.
 <img src="Logo_CdeCMx.png" width=200>
 
 
