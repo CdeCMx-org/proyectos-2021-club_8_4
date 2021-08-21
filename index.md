@@ -60,7 +60,7 @@ Procesar los archivos obtenidos en la plataforma PDB Sum.
 
 Para el pareamiento 1OAN y 2Z80
 
-![](PDBSum1.png)
+![](PDBsum1.png)
 
 Y para el pareamiento 2M0S y 3A7C
 
