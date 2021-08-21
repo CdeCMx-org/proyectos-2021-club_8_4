@@ -54,14 +54,14 @@ Durán, Anyelo, Álvarez-Mon, Melchor, & Valero, Nereida. (2014). Papel de los r
 Consiguiente a esto, se utiliza la plataforma HDOCK, para la unión de nuestros antígenos y los receptores TLR2 correspondientes.
 Obtenido el resultado, se introducen los archivos .pdb a Prodigy para obtener la energía libre de Gibbs y corroborar la interacción entre proteínas.
 
-![](Valores de Gibbs.png)
+![](VGibbs.png)
 
 Procesar los archivos obtenidos en la plataforma PDB Sum.
 
-![](PDBSum 1OAN.png)
+![](PDBSum1.png)
 
 
-![](PDBSum 2M0S.png)
+![](PDBSum2.png)
 
 ### Conclusiones
 
