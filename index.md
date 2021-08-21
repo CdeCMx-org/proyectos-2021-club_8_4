@@ -43,19 +43,26 @@ Investigar en la base de datos PDB las proteínas a escoger, siendo estas prote�
 Una vez hecho esto, visualizar y purificar las cadenas de interés en Chimera.
 Las proteínas escogidas fueron: 
 
+![](HDOCK.png)
 
 Se deben elegir receptores tipo Toll, al investigar se encuentra la afinidad del Virus Dengue, de donde provienen ambas estructuras, con los receptores tipo Toll 2.
 
-Fuente:
-_Durán, Anyelo, Álvarez-Mon, Melchor, & Valero, Nereida. (2014). Papel de los receptores tipo toll (TLRs) y receptores para dominios de oligomerización para la unión a nucleótidos (NLRs) en las infecciones virales. Investigación Clínica, 55(1), 61-81. Recuperado en 21 de agosto de 2021, de http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0535-51332014000100008&lng=es&tlng=es. _
+_Fuente:
+Durán, Anyelo, Álvarez-Mon, Melchor, & Valero, Nereida. (2014). Papel de los receptores tipo toll (TLRs) y receptores para dominios de oligomerización para la unión a nucleótidos (NLRs) en las infecciones virales. Investigación Clínica, 55(1), 61-81. Recuperado en 21 de agosto de 2021, de http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0535-51332014000100008&lng=es&tlng=es. _
 
+![](HDOCK.png)
 
 Consiguiente a esto, se utiliza la plataforma HDOCK, para la unión de nuestros antígenos y los receptores TLR2 correspondientes.
 Obtenido el resultado, se introducen los archivos .pdb a Prodigy para obtener la energía libre de Gibbs y corroborar la interacción entre proteínas.
 
+![](HDOCK.png)
 
 Procesar los archivos obtenidos en la plataforma PDB Sum.
 
+![](HDOCK.png)
+
+
+![](HDOCK.png)
 
 ### Conclusiones
 
