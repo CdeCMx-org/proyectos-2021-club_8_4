@@ -72,3 +72,6 @@ Los resultados aquí mostrados reflejan la interacción que tienen los receptore
 En este club se desarrollaron bases de algunas habilidades bioinformáticas importantes, así como un interés sobre la complejidad de la adaptación de los virus y los anticuerpos, en tiempo y complejidad biológica.
 Si bien se concluyó que el sistema inmune se adapta más rápido, no en todos los casos es así, por lo que desarrollar técnicas de ayuda, es de suma importancia para el planeta. Por lo que se reafirma la importancia de este factor “Salud y Bienestar” como Objetivo de Desarrollo Sostenible 3 en la agenda 2030 de la ONU.  
 
+### Video 
+
+
