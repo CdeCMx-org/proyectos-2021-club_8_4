@@ -1,4 +1,4 @@
-## AQUI VA EL TITULO DE NUESTROS ANTIGENOS
+## Interacción entre los receptores TLR2 ante antigenos del Virus del dengue
 
 ### Introducción
 Describe de qué trata tu proyecto:
@@ -75,3 +75,4 @@ Si bien se concluyó que el sistema inmune se adapta más rápido, no en todos l
 ### Video 
 
 
+<img src="Logo_CdeCMx.png" width=200>
