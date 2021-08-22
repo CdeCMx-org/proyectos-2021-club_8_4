@@ -74,5 +74,7 @@ Si bien se concluyó que el sistema inmune se adapta más rápido, no en todos l
 
 ### Video 
 
+Aquí presentamos el desarrollo del proyecto:
+ [nuestro video](https://youtu.be/3CO-d5E_MP8).
 
 <img src="Logo_CdeCMx.png" width=200>
