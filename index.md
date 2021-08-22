@@ -78,7 +78,8 @@ Aquí presentamos el desarrollo del proyecto:
  [nuestro video](https://youtu.be/3CO-d5E_MP8).
  
   
- ### Equipo 4
+### Equipo 4
+
  
  María del Carmen Antonio Reyes
  
